@@ -9,6 +9,7 @@ public class Laba3_Dixotom {
 // Comment with changes in fix
 // Comment with changes in fix second time
 // Comment with changes in fix re steps 1-9
+// Comment with changes after delete HOTFIX
 		double a = -n;
 		double b = n;
 		double L = b - a;
