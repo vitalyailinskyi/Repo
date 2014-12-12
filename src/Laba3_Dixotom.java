@@ -7,6 +7,7 @@ public class Laba3_Dixotom {
 		int n = 6;
 		int function = 1;
 // Comment with changes in fix
+// Comment with changes in fix second time
 		double a = -n;
 		double b = n;
 		double L = b - a;
