@@ -1,6 +1,6 @@
 
 public class Laba4_Metodi {
-	
+	// Changes in branch hotfix
 		static double[] toch = { 0.5, 0.1, 0.05, 0.01, 0.005, 0.001};
 		static double n = 6.0;
 		static double x_step = 51.0;
