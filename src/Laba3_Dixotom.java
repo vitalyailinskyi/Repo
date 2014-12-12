@@ -40,7 +40,7 @@ public class Laba3_Dixotom {
 
 				L = b - a;
 				System.out.println("L " + L
-						+ " Вычисления значений целевой функции " + function);
+						+ " Вычисления значений целевой функции " + function); // Comment with changes in file to commit
 			}
 		}
 
