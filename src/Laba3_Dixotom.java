@@ -8,6 +8,7 @@ public class Laba3_Dixotom {
 		int function = 1;
 // Comment with changes in fix
 // Comment with changes in fix second time
+// COMMENT IN BRANCH HOTFIX in the same file branch FIX
 		double a = -n;
 		double b = n;
 		double L = b - a;
